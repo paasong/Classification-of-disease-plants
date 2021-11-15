@@ -134,7 +134,7 @@ base = train_baseline(model_base, train_loader, val_loader, optimizer, epoch)
 
 torch.save(base,'./model/baseline.pt')
 
-
+#git 올리기
 
 
 
